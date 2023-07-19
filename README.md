@@ -1,1 +1,0 @@
-# pagina-copia-nelson
