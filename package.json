@@ -4,7 +4,7 @@
   "description": "pagina consumiendo una API",
   "main": "index.js",
   "scripts": {
-    "deploy":"gh-pages -d ./"
+    "deploy":"gh-pages -d src"
   },
   "author": "Raudy Garcia Castro",
   "license": "ISC",
